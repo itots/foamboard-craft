@@ -17,5 +17,5 @@
 <p>ゼフィルスの完成図2</p>
 
 ## モデル
-![モデル](images/zephyrus-model.jpeg)
+![モデル](images/zephyrus-model.jpg)
 <p>モデルとなったジョウザンミドリシジミ♂の標本</p>
