@@ -1,3 +1,8 @@
+---
+layout: default
+date: 2026-06-10
+---
+
 # ゼフィルス
 
 ## 設計のポイント
@@ -26,7 +31,3 @@
 ## モデル
 ![モデル](images/zephyrus-model.jpg)
 <p>モデルとなったジョウザンミドリシジミ♂の標本</p>
-
----
-- 公開日：2026-06-10
-- 著者：[itots](https://github.com/itots)
